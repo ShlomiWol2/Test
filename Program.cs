@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Amazon.S3;
+using Amazon.S3.Model;
 
 namespace MyTest
 {
@@ -10,8 +12,10 @@ namespace MyTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Stam");
-            Console.WriteLine("Stam");
+            for (int i = 0; i < 100; i++)
+            {
+                Console.WriteLine(i);
+            }
             Console.WriteLine("Stam");
         }
     }
