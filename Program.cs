@@ -12,6 +12,7 @@ namespace MyTest
         {
             Console.WriteLine("Stam");
             Console.WriteLine("Stam");
+            Console.WriteLine("Stam");
         }
     }
 }
