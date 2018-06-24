@@ -10,6 +10,7 @@ namespace MyTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Stam");
         }
     }
 }
