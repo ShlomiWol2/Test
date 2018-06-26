@@ -15,6 +15,13 @@ namespace MyTest
                 Console.WriteLine(i);
             }
             Console.WriteLine("Stam");
+
+            int j = 0;
+            while (j < 100)
+            {
+                j++;
+            }
+            
         }
     }
 }
