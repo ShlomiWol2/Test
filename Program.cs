@@ -21,6 +21,8 @@ namespace MyTest
             {
                 j++;
             }
+
+            Console.WriteLine("Another change");
             
         }
     }
