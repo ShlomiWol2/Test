@@ -23,7 +23,8 @@ namespace MyTest
             }
 
             Console.WriteLine("Another change");
-            
+            Console.WriteLine("Another change");
+
         }
     }
 }
